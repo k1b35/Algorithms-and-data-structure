@@ -1,0 +1,3 @@
+даёт только прикрепить файл
+выложил на github в папку "week7"
+https://github.com/k1b35/Algorithms-and-data-structure/tree/main/week7
